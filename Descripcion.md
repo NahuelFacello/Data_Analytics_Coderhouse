@@ -1,5 +1,5 @@
 ## Data_Analytics_Coderhouse
-#Proyecto realizado para el curso de data analytics de Corderhouse en Power BI
+# Proyecto realizado para el curso de data analytics de Corderhouse en Power BI
 
 El proyecto fue realizado como entrega final del curso en el cual se desarrollaron el lenguaje SQL, lenaguje DAX y Power BI.
 
